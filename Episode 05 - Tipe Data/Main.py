@@ -11,12 +11,12 @@ data_float = 1.5
 print("data : ", data_float)
 print("- bertipe : ", type(data_float))
 
-# tipe data: kumpulan karakter (string)
+# tipe data: kumpulan karakter / Huruf (string)
 data_string = "ucup"
 print("data : ", data_string)
 print("- bertipe : ", type(data_string))
 
-# tipe data: biner true/false (boolean)
+# tipe data: biner true(1)/false(0) (boolean)
 data_bool = False
 print("data : ", data_bool)
 print("- bertipe : ", type(data_bool))
