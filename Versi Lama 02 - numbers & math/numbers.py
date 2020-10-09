@@ -2,19 +2,20 @@ a = 5
 b = 3
 c = 4.0
 
-# penjumlahan
-
+# penjumlahan +
 print("penjumlahan a + b = ", a + b)
 
-# pengurangan
-
+# pengurangan -
 print("pengurangan a - b = ", a - b)
 
-# perkalian
-
+# perkalian *
 print("perkalian a * b = ", a * b)
 
-# pembagian
-
+# pembagian :
 print("pembagian a / b = ", a / b)
 
+# pembulatan kebawah //
+print("pembulatan kebawah a // b, = ", a // b)
+
+# pangkat **
+print("hasil pangkat b ** a, = ", b ** a) #sama aja 3^5
