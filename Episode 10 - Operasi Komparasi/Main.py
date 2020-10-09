@@ -3,6 +3,7 @@
 # setiap hasil dari operasi komparasi adalah boolean
 
 # >,<,>=,<=,==,!=,is,is not
+# != => (tanda seru + sama dengan)
 
 a = 4
 b = 2
@@ -51,7 +52,7 @@ hasil = b == 4
 print(b,'==',4,'=',hasil)
 
 # tidak sama dengan (!=)
-print('======== sama dengan(!=)')
+print('======== bukan sama dengan(!=)')
 hasil = a != 4
 print(a,'!=',4,'=',hasil)
 hasil = b != 4
