@@ -1,7 +1,9 @@
 # operasi aritmatika
 
-a = 10
-b = 3
+a = 8
+b = 5
+
+print("====Jawabannya BossQue====")
 
 # operasi tambah +
 hasil = a + b
@@ -23,11 +25,11 @@ print(a,'/',b,'=',hasil)
 hasil = a ** b
 print(a,'**',b,'=',hasil)
 
-# operasi modulus %
+# operasi modulus % (Sisa pembagian)
 hasil = a % b
 print(a,'%',b,'=',hasil)
 
-# operasi floor division //
+# operasi floor division // (Pendekatan kebawah desimal)
 hasil = a // b
 print(a,'//',b,'=',hasil)
 
@@ -50,3 +52,5 @@ print(x,'+',y,'*',z,'=',hasil)
 # kurung akan mengambil langkah paling pertama
 hasil = (x + y) * z 
 print('(',x,'+',y,') *',z,'=',hasil)
+
+print("====SELESAI====")
